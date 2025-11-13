@@ -77,7 +77,7 @@ There are two common ways to verify a downloaded release, depending on whether `
   Loaded 1 attestation from GitHub API
   ✓ Verification succeeded!
 
-  sha256:fdb77f31b8a6dd23c3fd858758d692a45f7fc76383e37d475bdcae038df92afc was attested by:
+  sha256:fdb77f31b8a6dd23c3fd858758d692a45f7fc76383e37d475bdcae038df9 was attested by:
   REPO     PREDICATE_TYPE                  WORKFLOW
   cli/cli  https://slsa.dev/provenance/v1  .github/workflows/deployment.yml@refs/heads/trunk
   ```
